@@ -15,7 +15,7 @@ const properties = [
     beds: 4,
     baths: 4.5,
     sqft: 4200,
-    image: "https://images.unsplash.com/photo-1613490908571-9ce985c29bbc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/images/sudeste_modern_villa_1774570007389.png",
     tag: "Nuevo"
   },
   {
@@ -26,7 +26,7 @@ const properties = [
     beds: 3,
     baths: 3,
     sqft: 2800,
-    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/images/sudeste_luxury_penthouse_1774570022317.png",
     tag: "Exclusivo"
   },
   {
@@ -37,7 +37,7 @@ const properties = [
     beds: 5,
     baths: 6,
     sqft: 6500,
-    image: "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/images/sudeste_country_estate_1774570039541.png",
     tag: ""
   }
 ];

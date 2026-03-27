@@ -11,7 +11,7 @@ export function HeroSection() {
       {/* Background Image / Overlay */}
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-b from-background/30 via-background/80 to-background z-10" />
-        <div className="w-full h-full bg-[url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=2075&q=80')] bg-cover bg-center" />
+        <div className="w-full h-full bg-[url('/images/sudeste_hero_mansion_1774569992876.png')] bg-cover bg-center" />
       </div>
 
       <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full flex flex-col items-center text-center">
@@ -31,7 +31,7 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-5xl md:text-7xl font-extrabold tracking-tight text-foreground mb-6"
         >
-          Descubre tu Propiedad <span className="text-primary">Ideal</span>
+          Inversiones Inmobiliarias de <span className="text-primary">Alto Rendimiento</span>
         </motion.h1>
 
         <motion.p
@@ -40,7 +40,7 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-lg md:text-2xl text-muted-foreground/90 max-w-3xl mb-12 font-light"
         >
-          Explora la selección más fina de bienes raíces premium, pensada específicamente para tu gusto excepcional.
+          Encontrá tu próximo hogar o inversión con asesoramiento real. Propiedades seleccionadas con toda la información que necesitás para decidir bien.
         </motion.p>
 
         {/* Search Bar */}

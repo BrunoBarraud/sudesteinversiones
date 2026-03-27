@@ -13,7 +13,7 @@ export function AgentBio() {
             {/* Image Side */}
             <div className="relative h-96 lg:h-auto">
               {/* Fallback image if next/image isn't used - using a standard Unsplash for the founder */}
-              <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80')] bg-cover bg-center" />
+              <div className="absolute inset-0 bg-[url('/images/sudeste_founder_portrait_1774570056736.png')] bg-cover bg-top" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent lg:hidden" />
               <div className="absolute inset-0 bg-gradient-to-r from-black/0 via-black/0 to-card hidden lg:block" />
             </div>
@@ -34,15 +34,15 @@ export function AgentBio() {
                   Roberto <span className="text-primary font-light">Martínez</span>
                 </h2>
                 <h3 className="text-xl text-muted-foreground mb-8 font-light">
-                  CEO & Asesor en Inversiones Inmobiliarias
+                  Founder & Managing Partner en Sudeste Inversiones
                 </h3>
                 
                 <div className="space-y-6 text-foreground/80 mb-10 leading-relaxed">
                   <p>
-                    Con más de 15 años de experiencia en el mercado inmobiliario premium, Roberto ha dirigido transacciones por más de $500 millones, estableciendo un estándar de excelencia y exclusividad.
+                    Con más de 15 años de experiencia liderando operaciones en el mercado de Real Estate de lujo, Roberto ha orquestado transacciones que superan los $500 millones, consolidando a Sudeste Inversiones como referente de rentabilidad y prestigio.
                   </p>
                   <p>
-                    Su filosofía se centra en la relación personalizada y el entendimiento profundo de las necesidades de cada cliente, garantizando que cada inversión sea no solo segura, sino extraordinariamente rentable.
+                    Nuestra visión institucional se basa en el resguardo patrimonial y la apreciación de capital a largo plazo, brindando a nuestra selecta cartera de clientes un acceso privilegiado a oportunidades off-market inigualables.
                   </p>
                 </div>
 
